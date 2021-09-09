@@ -1,0 +1,12 @@
+body{
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 15%, rgba(147,188,236,1) 85%);
+}
+.clock{
+  font-size: 180px;
+  position: absolute;
+  top: 230px;
+  left: 330px;
+  border: 10px solid;
+  border-color: white;
+}
